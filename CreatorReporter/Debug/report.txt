@@ -1,0 +1,9 @@
+Report on file: binary.bin
+Id: 141322432
+Name: Artem
+Hours worked: 23
+Salary: 69
+Id: 3243443
+Name: Maxim
+Hours worked: 45.2
+Salary: 135.6
