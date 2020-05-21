@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ReceiverSender.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Receiver.cpp
+  ReceiverManager.cpp
+  Создание кода...
+  ReceiverSender.vcxproj -> D:\Программирование\Операционные системы\ReceiverSender\Debug\Receiver.exe
